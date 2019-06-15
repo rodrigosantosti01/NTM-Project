@@ -7,3 +7,5 @@ trabalhado entre outros.
 O aplicativo de Controle de Demandas visa permitir que gerentes de projeto façam esse o
 controle de agenda e demanda dos membros de sua equipe, bem como permitir que os
 próprios membros registrem quando estão em horário de trabalho, almoço etc.
+
+O NTM foi desenvolvido em reactjs (frontend) e java (api).
